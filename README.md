@@ -1,10 +1,10 @@
 🏆 TryHackMe Journey
 My TryHackMe Journey as a SOC Aspirant.
 
-62 Rooms Completed
-15 Badges
-Top 8% Worldwide
-1st Place - Bronze Weekly League
+- 62 Rooms Completed
+- 15 Badges
+- Top 8% Worldwide
+- 1st Place - Bronze Weekly League
 
 Learning Paths
 ✔ Pre-Security Path 
