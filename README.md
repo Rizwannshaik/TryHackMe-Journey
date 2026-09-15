@@ -1,14 +1,14 @@
-🏆 TryHackMe Journey & Accomplishments!!! 
+# 🏆 TryHackMe Journey & Accomplishments!!! 
 
-My TryHackMe Journey as a SOC Aspirant. 
-#TryHackMe - PUblic profile: https://tryhackme.com/p/RizwannSHAIK 
+HELLO! I'm **Rizwann Shaik**, an aspiring **SOC Analyst**. This repository tracks my hands-on lab milestones & technical skills as I train for a Tier 1 SOC role. 
+**Verified TryHackMe Profile:** [View My Live Public Profile] (https://tryhackme.com/p/RizwannSHAIK) 
 
 
-### UPDATE - 2 - Sep 15th 2026 ### 
+### UPDATE - II - Sep 15th 2026 ### 
 
-- Top 3% Worldwide
-- 101 Rooms Completed
-- 22 Badges
+- **Rank:** Top 3% Worldwide 🌏
+- **Rooms Completed:** 101 Labs
+- 22 Badges Earned
 - 1st Place - Silver Weekly League
 
 Learning Paths
@@ -18,20 +18,25 @@ Learning Paths
 
 *Current Goal*
 - 150/175 Rooms 
-- Top 1% 
+- Top 1%
+  
 ---------------------------------------------------------------------
 
-### UPDATE - 1 - Jul 15th 2026 ###
+### UPDATE - I - Jul 15th 2026 ###
 
-- Top 8% Worldwide
-- 62 Rooms Completed
-- 15 Badges
+- **Rank:** Top 8% Worldwide 🌏
+- **Rooms Completed:** 62 Labs
+- 15 Badges Earned 
 - 1st Place - Bronze Weekly League
 
 Learning Paths
 -> ✔ Pre-Security Path 
 -> ⏳ Cyber Security 101 Path
 
-*Current Goal*
+*Goal Accomplished*
 - 100 Rooms ( Accomplished )
 - Top 5%. ( Accomplished )
+
+
+---
+Let's Connect: **[LinkendIn](https://www.linkedin.com/in/rizwann-shaik/)**
