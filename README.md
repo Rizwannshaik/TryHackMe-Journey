@@ -1,7 +1,8 @@
 # 🏆 TryHackMe Journey & Accomplishments!!! 
 
 HELLO! I'm **Rizwann Shaik**, an aspiring **SOC Analyst**. This repository tracks my hands-on lab milestones & technical skills as I train for a Tier 1 SOC role. 
-**Verified TryHackMe Profile:** [View My Live Public Profile] (https://tryhackme.com/p/RizwannSHAIK) 
+
+**Verified TryHackMe Profile:** [View My Live Public Profile](https://tryhackme.com/p/RizwannSHAIK) 
 
 
 ### UPDATE - II - Sep 15th 2026 ### 
